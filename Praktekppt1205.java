@@ -1,5 +1,5 @@
 import java.util.Scanner;
-class MyClass {
+public class MyClass {
   public static void main(String[ ] args) {
     Scanner Saudara = new Scanner(System.in);
     System.out.print("Saudara :");
